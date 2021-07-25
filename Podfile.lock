@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (5.4.3)
+  - Kingfisher (5.15.8):
+    - Kingfisher/Core (= 5.15.8)
+  - Kingfisher/Core (5.15.8)
+  - KMNavigationBarTransition (1.1.8)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - SwiftyJSON (5.0.1)
+  - Swinject (2.7.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.3)
+  - Kingfisher (~> 5.15)
+  - KMNavigationBarTransition
+  - NVActivityIndicatorView (~> 5.1)
+  - SwiftyJSON (~> 5.0)
+  - Swinject (~> 2.7)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - KMNavigationBarTransition
+    - NVActivityIndicatorView
+    - SwiftyJSON
+    - Swinject
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  Kingfisher: a3c03d702433fa6cfedabb2bddbe076fb8f2e902
+  KMNavigationBarTransition: 7ee1a05ff758bce9258845a803f7a8b00585bd58
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  Swinject: ddf78b8486dd9b71a667b852cad919ab4484478e
+
+PODFILE CHECKSUM: bd7f80a38963dfb1350dfef39ca8b0e97eb71ac3
+
+COCOAPODS: 1.10.1
